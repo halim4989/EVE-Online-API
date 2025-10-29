@@ -1,4 +1,4 @@
-#  EVE-Online Market Intelligence (Automated Market & Trade Analyzer)
+#  🚀 EVE-Online Market Intelligence (Automated Market & Trade Analyzer)
 
 *“Spreadsheets in space — but smarter.”*  
 A Python-powered project that uses the **EVE Online ESI** and **EVE Marketer APIs** to identify **profitable trade opportunities**, analyze **regional market trends**, and calculate **safe routes** across New Eden.
@@ -26,7 +26,7 @@ All operations are **multi-threaded** using `python concurrent.futures` for spee
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 Run any `ipynb` in colab or local machine:
 *change region if needed based on your cuurrent location*
