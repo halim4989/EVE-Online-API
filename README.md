@@ -1,4 +1,4 @@
-# 🚀 EVE-Online Market Intelligence (Automated Market & Trade Analyzer)
+#  EVE-Online Market Intelligence (Automated Market & Trade Analyzer)
 
 *“Spreadsheets in space — but smarter.”*  
 A Python-powered project that uses the **EVE Online ESI** and **EVE Marketer APIs** to identify **profitable trade opportunities**, analyze **regional market trends**, and calculate **safe routes** across New Eden.
